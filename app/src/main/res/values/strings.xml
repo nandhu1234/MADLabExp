@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">MADLabExp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_restart">Restart</string>
+
+    <string name="nav_item_1">Experiment 1</string>
+    <string name="nav_item_2">Experiment 2</string>
+    <string name="nav_item_3">Experiment 3</string>
+    <string name="nav_item_4">Experiment 4</string>
+    <string name="nav_item_5">Experiment 5</string>
+    <string name="nav_item_6">Experiment 6</string>
+    <string name="nav_item_7">Experiment 7</string>
+    <string name="nav_item_8">Experiment 8</string>
+    <string name="nav_item_9">Experiment 9</string>
+    <string name="nav_item_10">Experiment 10</string>
+    <string name="nav_item_11">Experiment 11</string>
+
+    <!--Exp1-->
+    <string name="hello">Hello World</string>
+    <string name="change_color">Change Font Color</string>
+    <string name="change_size">Change Font Size</string>
+
+    <!--Exp2-->
+    <string name="details">Details Form</string>
+    <string name="name">Name</string>
+    <string name="reg">Reg No.</string>
+    <string name="dept">Dept</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+
+    <!--Exp3-->
+    <string name="result_hint">Result</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="dot">.</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="asterisk">*</string>
+    <string name="backslash">/</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="plusOrMinus">+/-</string>
+    <string name="equal">=</string>
+
+    <!--Exp4-->
+    <string name="canvas">Canvas</string>
+
+    <!--Exp5-->
+    <string name="student_details">Student Details</string>
+    <string name="enter_rollno">Enter RollNo</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_marks">Enter marks</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+    <string name="view_all">View All</string>
+
+    <!--Exp6-->
+
+    <!--Exp7-->
+    <string name="start_multi_threading">Start MultiThreading</string>
+    <string name="main_thread">Main Thread</string>
+
+    <!--Exp8-->
+    <string name="fine_accuracy_selected">Fine accuracy selected</string>
+    <string name="coarse_accuracy_selected">Coarse accuracy selected</string>
+    <string name="fine_or_coarse">Do you want a fine accuracy or not?</string>
+    <string name="ok">OK</string>
+    <string name="no_provider">No provider selected yet</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+
+    <!--Exp9-->
+    <string name="write_data">Write Data</string>
+    <string name="read_data">Read Data</string>
+    <string name="clear">Clear</string>
+    <string name="data">Data</string>
+    <string name="enter_data">Enter Some Data</string>
+
+    <!--Exp10-->
+    <string name="i_m_here">I am here…!</string>
+
+    <!--Exp11-->
+</resources>
