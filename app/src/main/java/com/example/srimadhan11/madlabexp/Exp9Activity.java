@@ -24,7 +24,7 @@ public class Exp9Activity extends AppCompatActivity {
     EditText data;
     Button write, read, clear;
 
-    public static void verifyStoragePermissions(Activity activity) {
+    public void verifyStoragePermissions(Activity activity) {
         int REQUEST_EXTERNAL_STORAGE = 1;
         String[] PERMISSIONS_STORAGE = {
                 Manifest.permission.READ_EXTERNAL_STORAGE,
