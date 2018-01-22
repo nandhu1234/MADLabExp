@@ -18,6 +18,8 @@
     <string name="nav_item_10">Experiment 10</string>
     <string name="nav_item_11">Experiment 11</string>
 
+    <string name="main_text">Mobile\nApplication\nDevelopment\nLab Experiments</string>
+
     <!--Exp1-->
     <string name="hello">Hello World</string>
     <string name="change_color">Change Font Color</string>
